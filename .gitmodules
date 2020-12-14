@@ -1,0 +1,3 @@
+[submodule "MERN_InstaApp_FrontEnd"]
+	path = MERN_InstaApp_FrontEnd
+	url = https://github.com/Khushboo171289/MERN_InstaApp_FrontEnd.git
